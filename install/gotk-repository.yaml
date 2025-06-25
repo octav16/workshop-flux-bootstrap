@@ -6,5 +6,5 @@ metadata:
 spec:
   interval: 1m0s
   ref:
-    branch: main
+    branch: master
   url: https://github.com/octav16/workshop-flux-bootstrap.git
